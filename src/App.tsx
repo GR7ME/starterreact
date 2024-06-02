@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <p>navbar</p>
+      <p>navbar chnaged</p>
       <h1>Hello World</h1>
     </>
   );
